@@ -2,7 +2,7 @@ The time or name of your cohort:
 leoscohort
 
 First names of all your cohort classmates:
-Devin
+Devin Coombs
 Gari
 Nate
 Heidi
